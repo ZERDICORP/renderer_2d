@@ -1,5 +1,5 @@
 # renderer_2d :fireworks:
-#### General template for fast rendering with low-level pixel-by-pixel rendering.
+#### General template for fast low-level pixel-by-pixel rendering.
 
 ## Introduction :v:
 This project is a template for rendering 2D graphics.  
